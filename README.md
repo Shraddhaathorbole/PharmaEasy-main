@@ -103,7 +103,7 @@ http://localhost:8501
   - Username: `admin`
   - Password: `admin`
 
-## 📊 Database Schema
+## Database Schema
 
 The application uses a SQLite database with the following tables:
 
