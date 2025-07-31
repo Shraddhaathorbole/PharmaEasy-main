@@ -1,6 +1,6 @@
 # 💊 PharmaEasy - Pharmacy Management System
 
-**PharmEasy** simplifies pharmacy operations through an intuitive web-based interface. Built with Python, Streamlit, and SQLite, it allows customers to place orders and admins to manage inventory, track sales, and handle user data with ease.
+**PharmaEasy** simplifies pharmacy operations through an intuitive web-based interface. Built with Python, Streamlit, and SQLite, it allows customers to place orders and admins to manage inventory, track sales, and handle user data with ease.
 
 ---
 
